@@ -1,4 +1,3 @@
-# Tarea3-BigData-UNAD
 # Tarea 3 - Procesamiento Batch y Streaming (Big Data)
 
 **Estudiante:** Santiago Nieto Gómez
